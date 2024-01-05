@@ -1,11 +1,44 @@
-seller interface
-  POS
-    SKU tracking
-      Product Details 
-      Inventory Tracking
-    Price Control
-    
-  
-  
-  
-customer interface
+Seller Interface:
+  Seller Dashboard:
+    Overview of sales, inventory status, and notifications.
+  Product Management:
+    POS Integration:
+      Integration with a Point of Sale system for seamless in-store transactions.
+    SKU Tracking:
+      Assigning and tracking Stock Keeping Units (SKUs) for each product.
+      Managing product details, including name, description, images, and categories.  
+  Inventory Control:
+    Inventory Tracking:
+      Real-time tracking of product quantities and stock levels.
+      Automated alerts for low stock and restocking needs.
+  Price Control:  
+    Dynamic pricing options based on demand, promotions, or seasonal changes.
+    Special pricing for bulk purchases or loyalty program members.
+  Order Processing:    
+    Efficient processing of customer orders through the POS system.
+    Order status tracking from placement to fulfillment.
+  Customer Management:  
+    Tracking customer preferences and purchase history.
+    Loyalty program integration for rewarding repeat customers.
+
+Customer Interface:
+  User Registration:
+    Easy account creation for customers with personalized profiles.
+  Product Discovery:
+    Intuitive navigation and search features for finding products.
+    Categories, filters, and sorting options for a seamless shopping experience.
+  Deal Notifications:
+    Alerts for local deals, discounts, and promotions.
+    Personalized notifications based on user preferences.
+  Shopping Cart:
+    Adding products to the cart for convenient checkout.
+    Cart management with the ability to edit quantities and remove items.
+  Secure Checkout:
+    Multiple payment options, including credit cards, mobile wallets, and cash on delivery.
+    Secure and straightforward checkout process.
+  Order Tracking:
+    Real-time tracking of order status and delivery updates.
+    Order history for reference and reordering.
+  Feedback and Reviews: 
+    Providing feedback and ratings for products and sellers.
+    Reviews to help other customers make informed decisions.
